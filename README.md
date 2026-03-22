@@ -21,7 +21,7 @@ This project implements MLOps practices for analyzing and predicting airline pas
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/jenilsoni-ai/MLOps-Airline-Passenger-Satisfaction
+git clone https://github.com/thejenilsoni/MLOps-Airline-Passenger-Satisfaction
 ```
 
 2. Create and activate virtual environment:
